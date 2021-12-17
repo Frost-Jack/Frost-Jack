@@ -1,7 +1,7 @@
 ### 👀 Nothing to see here 👀
-<p align="center">
+
 ![Alt Text](https://c.tenor.com/O1LsZjkemV8AAAAC/rumia-vore.gif)
-</p>
+
 
 <!--
 **Frost-Jack/Frost-Jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
